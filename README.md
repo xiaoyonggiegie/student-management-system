@@ -18,4 +18,4 @@ Java控制台练手项目。
 ## 运行
 ```bash
 javac Student.java StudentManager.java
-java StudentManager
+java StudentManger
