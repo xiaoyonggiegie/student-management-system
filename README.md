@@ -17,5 +17,5 @@ Java控制台练手项目。
 
 ## 运行
 ```bash
-javac Student.java StudentManager.java
+javac Student.java StudentManger.java
 java StudentManger
